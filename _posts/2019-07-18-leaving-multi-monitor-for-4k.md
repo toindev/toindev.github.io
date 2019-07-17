@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Leaving behind multi-monitors setup for glorious 4K."
-date:   2019-07-19
+date:   2019-07-18
 categories: hardware
 ---
 
