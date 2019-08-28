@@ -1,1 +1,1 @@
-# toindev.github.io
+[Code, Keyboards, Ducks and Geeky Things](https://blog.toindev.net)

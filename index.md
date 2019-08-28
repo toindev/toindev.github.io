@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Romain Prévost's musings (better title TBD)
+title: Code, Keyboards, Ducks and Geeky Things
 ---
 
-Content

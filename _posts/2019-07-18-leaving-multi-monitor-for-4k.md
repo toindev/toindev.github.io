@@ -34,7 +34,7 @@ Some great use cases I found for now :
 
 - 4k is gorgeous
 - A lot of 4k monitors support dual input, and that may be more pratical if you want to tile your windows (or your computer does not support a single 4k output at a decent refresh rate).
-- I though I would be using more windows, where in fact I'm using *bigger* windows, and loving it (especially the web browser and IDE)
+- I thought I would be using more windows, where in fact I'm using *bigger* windows, and loving it (especially the web browser and IDE)
 - VERTICAL LAYOUT! This is the best change so far. Coupled with the high resolution, it makes so much more apps much more usable. Careful, I'm endorsing here my 8:9 ratio, not the 9:16 you'd get by rotating a monitors, which is too narrow for my taste.
 
 
